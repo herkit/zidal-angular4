@@ -1,11 +1,9 @@
-# adal-angular4 
-[![Build status](https://ci.appveyor.com/api/projects/status/iwpwhyp6ymifxc4e?svg=true)](https://ci.appveyor.com/project/benbaran/adal-angular4)
-[![npm version](https://badge.fury.io/js/adal-angular4.svg)](https://badge.fury.io/js/adal-angular4)
-
+# zidal-angular4 
+A derivative work of adal-angular4, adapted to the [ZData IDentity Server Authentication Library](https://github.com/herkit/zdata-identity-server-authentication-library)
 
 ___
 
-Angular 4+ Adal wrapper package. Can be used to authenticate Angular applications against Azure Active Directory v1 endpoint.
+Angular 4+ Zidal wrapper package. Can be used to authenticate Angular applications against ZData Identity Server endpoint.
 ___
 
 ## Change Log
